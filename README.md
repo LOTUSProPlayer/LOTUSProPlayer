@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align='center'>
 
-<!--
-**LOTUSProPlayer/LOTUSProPlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Main Discord](https://img.shields.io/discord/925068059713089667?style=for-the-badge&logo=appveyor?color=%23ff0000&label=A%20Random%20Server)](https://discord.gg/uxaRNsMdGA)
+[![WhatExploitsAre.Online](https://img.shields.io/discord/920129627345809418?style=for-the-badge&logo=appveyor?color=%23ff0000&label=WhatExploitsAre.Online)](https://discord.gg/bdZ8Z2kzhC)
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=LOTUSProPlayer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LOTUSProPlayer&repo=Sense&theme=dark)](https://github.com/LOTUSProPlayer/Sense)
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOTUSProPlayer&count_private=true&orgs=The-Black-Arms&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOTUSProPlayer&count_private=true&orgs=The-Black-Arms&theme=chartreuse-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
