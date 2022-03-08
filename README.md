@@ -1,6 +1,5 @@
 <div align='center'>
 
-[![Main Discord](https://img.shields.io/discord/925068059713089667?style=for-the-badge&logo=appveyor?color=%23ff0000&label=A%20Random%20Server)](https://discord.gg/uxaRNsMdGA)
 [![WhatExploitsAre.Online](https://img.shields.io/discord/920129627345809418?style=for-the-badge&logo=appveyor?color=%23ff0000&label=WhatExploitsAre.Online)](https://discord.gg/bdZ8Z2kzhC)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LOTUSProPlayer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
